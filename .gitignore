@@ -1,0 +1,12 @@
+# Python virtual environments
+venv/
+.env/
+
+sklearn-env-py310/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
